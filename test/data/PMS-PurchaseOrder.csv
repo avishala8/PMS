@@ -1,0 +1,6 @@
+ID;PO_Number;Description;Supplier;TotalAmount;Status;createdAt;createdBy;modifiedAt;modifiedBy
+0a4d3e35-87e8-48c6-98db-72a6f79cb0bc;PO001;Office Supplies Order;Tech Supplies Inc;1000.00;Open;2021-06-27T14:52:23Z;John Doe;2021-06-27T14:52:23Z;John Doe
+89c9db75-6ad8-4aed-b27b-0f0bc7dcd885;PO002;New Laptops Purchase;Gadget World;5000.00;Closed;2021-06-27T14:52:23Z;Jane Smith;2021-06-27T14:52:23Z;Jane Smith
+4c21dc5a-da62-433e-8b60-52e45832f21c;PO003;Office Furniture Order;FurniCorp;3000.00;Cancelled;2021-06-27T14:52:23Z;Alice Johnson;2021-06-27T14:52:23Z;Alice Johnson
+61647a1f-1721-4f00-8881-1f472b76996a;PO004;Software Licenses;SoftTech;2000.00;Pending;2021-06-27T14:52:23Z;Bob Brown;2021-06-27T14:52:23Z;Bob Brown
+006ab83a-3e1b-4b30-b465-3888d422dc74;PO005;Networking Equipment;NetSolutions;1500.00;In Progress;2021-06-27T14:52:23Z;Charlie White;2021-06-27T14:52:23Z;Charlie White
