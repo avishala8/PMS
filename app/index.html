@@ -27,7 +27,7 @@
                     return Controller.extend("PreviewController", {
                         onInit: function () {
 
-                            const data = {"Services":[{"ServiceName":"ProcurementService","DetailsURL":"./odata/v4/procurement/","Metadata":"./odata/v4/procurement/$metadata","Entities":[{"Name":"PurchaseOrder","URL":"./odata/v4/procurement/PurchaseOrder","FioriURL":"$fiori-preview/ProcurementService/PurchaseOrder#preview-app"},{"Name":"POItem","URL":"./odata/v4/procurement/POItem","FioriURL":"$fiori-preview/ProcurementService/POItem#preview-app"}],"EntitiesCount":2}]}
+                            const data = {"Services":[{"ServiceName":"ProcurementService","DetailsURL":"./odata/v4/procurement/","Metadata":"./odata/v4/procurement/$metadata","Entities":[{"Name":"PurchaseOrder","URL":"./odata/v4/procurement/PurchaseOrder","FioriURL":"$fiori-preview/ProcurementService/PurchaseOrder#preview-app"}],"EntitiesCount":1}]}
                             this.getView().setModel(new JSONModel(data));
                         }
                     });
